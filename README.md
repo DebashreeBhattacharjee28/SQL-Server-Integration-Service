@@ -7,6 +7,6 @@ In this project analysis on AdventureworksDW was done to gain hands on of how a 
 
 <figure>
 <img src="Image/SSAS outcome.PNG">
-<figcaption>"Screenshot of the SSAS browser showing the analysis of Sales of Product Category and Subcategory for the year 2013 for each quarter for Australia"</figcaption>
+<figcaption>Fig: Screenshot of the SSAS browser showing the analysis of Sales of Product Category and Subcategory for the year 2013 for each quarter for Australia</figcaption>
 </figure>
 

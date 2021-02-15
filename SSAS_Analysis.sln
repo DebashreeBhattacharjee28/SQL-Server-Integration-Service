@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS Analysis", "Module_Edureka_SSAS_FirstCube\SSAS Analysis.dwproj", "{08B8A435-39C9-490B-978A-4CD522CD9AB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B8A435-39C9-490B-978A-4CD522CD9AB4}.Development|Default.ActiveCfg = Development
+		{08B8A435-39C9-490B-978A-4CD522CD9AB4}.Development|Default.Build.0 = Development
+		{08B8A435-39C9-490B-978A-4CD522CD9AB4}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23EEA7C6-0C81-4BB3-BAF9-18E3B2E654A4}
+	EndGlobalSection
+EndGlobal

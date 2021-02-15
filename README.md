@@ -5,5 +5,5 @@ The AdventureWorksDW is a sample data warehouse that was originally published by
 
 In this project analysis on AdventureworksDW was done to gain hands on of how a SSAS cube is generated and the way filtering is done based on Calender Year and Country from different dimensions are done to represent insights related to Sales Figures relative to Product Standard Cost amount in a year by quarter for Product Catergories.
 
-![img slt="Screenshot of the SSAS browser showing the analysis of Sales of Product Category and Subcategory for the year 2013 for each quarter for Australia"]{Image/SSAS outcome.PNG)
+<img src="Image/SSAS outcome.PNG">
 

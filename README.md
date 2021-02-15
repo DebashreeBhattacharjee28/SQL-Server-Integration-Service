@@ -1,4 +1,4 @@
-## SQL-Server-Integration-Service
+## SQL-Server-Analysis-Service
 This repository has the content of one of my SSAS project that I have covered to gain an understanding of SSAS
 ## Description
 The AdventureWorksDW is a sample data warehouse that was originally published by Microsoft to show how to design a SQL Server datawarehouse. It is a fictitious multinational company that sells products of various categories. Several attributes of the products are present based on which analysis can be performed for generating results related to profits made,sales per year ,geographical analysis ,etc. 
